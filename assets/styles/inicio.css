@@ -1,0 +1,22 @@
+h5{
+    margin: 0 122px 186px;
+    padding-top: 49px;
+}
+.banner{
+    height: 638px;
+    width: 1440px;
+    background: url('../images/banner-inicio.png') 50% 0 repeat-x;
+}
+
+.lista{
+    margin: 0 50px;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+.receita{
+    padding: 0 15px;
+    margin-bottom: 120px;
+    align-items: center;
+    text-align: center;
+}

@@ -1,0 +1,64 @@
+h5{
+    margin: 0 122px 186px;
+    padding-top: 49px;
+}
+.banner{
+    height: 405px;
+    width: 1440px;
+    background: url('../images/banner.jpg') 50% 0 repeat-x;
+}
+.contato{
+    height: 711px;
+    margin: 102px 0 133px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+fieldset{
+    width: 820px;
+    border-radius: 20px;
+    border: 1px solid #FFA000;
+    border-radius: 20px;
+    align-items: center;
+}
+form{
+    margin-left: 33px;
+}
+h1{
+    margin: 65px 33px;
+    text-transform: none;
+}
+
+input, textarea{
+    width: 750px;
+    margin-bottom: 22px;
+    border: 1px solid #FFA000;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+input{
+    height: 32px;
+    padding: 0 34px;
+}
+textarea{
+    padding: 34px;
+    resize: none;
+}
+:focus{
+   outline: 0;
+}
+button{
+    width: 164px;
+    height: 49px;
+    background: #FFC107;
+    border-radius: 50px;
+    border:none;;
+    color: #FFFFFF;
+}
+span{
+    font-family: 'Nunito';
+    font-weight: 400;
+    font-size: 16px;
+    color: #58555D;
+    margin: 8px 33px;
+}
